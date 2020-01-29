@@ -1,0 +1,272 @@
+[27-Sep-2018 19:58:25 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 19:58:25 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 19:58:29 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 19:58:29 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 20:02:02 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 20:02:02 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 20:02:06 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 20:02:06 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 21:02:13 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 21:02:13 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 21:03:20 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[27-Sep-2018 21:03:20 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Sep-2018 21:04:57 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[27-Sep-2018 21:04:57 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[28-Sep-2018 00:02:01 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[28-Sep-2018 00:02:01 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[05-Oct-2018 21:56:03 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[05-Oct-2018 21:56:03 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:21:14 America/Sao_Paulo] PHP Notice:  Undefined variable: casaoracao in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 30
+[07-Oct-2018 08:21:14 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:21:14 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:23:08 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:23:08 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:25:37 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:25:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:28:22 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:28:22 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:33:55 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:33:55 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:37:56 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:37:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:45:27 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:45:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:28 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:29 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:30 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:48:32 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:48:32 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:48:36 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:48:36 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:48:37 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:48:37 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:48:40 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:48:40 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:48:40 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:48:40 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:49:07 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:49:07 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:49:09 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:49:09 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:49:09 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Oct-2018 08:49:09 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Oct-2018 08:52:49 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 08:52:49 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:36:27 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:36:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:37:31 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:37:31 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:41:58 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:41:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:44:24 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:44:24 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:47:27 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:47:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:52:38 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:52:38 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:59:29 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 09:59:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 10:01:04 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[07-Oct-2018 10:01:04 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[13-Oct-2018 09:12:10 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:12:18 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:12:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:13:19 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:13:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:15:49 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:15:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:15:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:16:23 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:16:26 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[13-Oct-2018 09:26:05 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[13-Oct-2018 09:26:05 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[13-Oct-2018 09:44:22 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[13-Oct-2018 09:44:22 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[13-Oct-2018 10:52:05 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[13-Oct-2018 10:52:05 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[13-Oct-2018 11:47:23 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[13-Oct-2018 11:47:23 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[14-Oct-2018 06:18:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 07:49:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 07:59:51 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[14-Oct-2018 07:59:51 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[14-Oct-2018 08:45:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 08:46:30 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[14-Oct-2018 08:46:30 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[14-Oct-2018 08:46:42 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 08:47:45 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 08:48:48 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[14-Oct-2018 08:49:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[15-Oct-2018 21:44:18 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[15-Oct-2018 21:44:18 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[15-Oct-2018 21:44:22 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[15-Oct-2018 21:44:22 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Oct-2018 00:08:58 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Oct-2018 00:08:58 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[27-Oct-2018 11:47:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[27-Oct-2018 11:47:19 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[27-Oct-2018 11:48:16 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[27-Oct-2018 12:21:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:16:21 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[29-Oct-2018 12:16:21 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[29-Oct-2018 12:16:36 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:17:01 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:17:05 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:17:52 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:18:15 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[29-Oct-2018 12:18:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:18:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:18:57 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[29-Oct-2018 12:19:18 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[30-Oct-2018 09:06:10 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[30-Oct-2018 10:54:31 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[30-Oct-2018 10:54:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[02-Nov-2018 17:44:43 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on '187.121.212.50' (110) in /home/rpforg/public_html/controlepresenca/conection.inc.php on line 17
+[10-Nov-2018 09:34:33 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:34:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:34:39 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:34:50 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:34:53 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:34:54 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:06 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:08 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:09 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:10 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:15 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:16 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:17 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:18 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:18 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:19 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:20 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:24 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:35:25 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:12 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:51 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:55 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:56 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:40:58 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:02 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:03 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:03 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:14 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 09:41:15 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[10-Nov-2018 10:36:37 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[10-Nov-2018 10:36:37 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[10-Nov-2018 12:42:35 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[10-Nov-2018 12:42:35 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[11-Nov-2018 00:31:27 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[11-Nov-2018 00:31:27 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[11-Nov-2018 09:26:28 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[11-Nov-2018 09:26:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[11-Nov-2018 09:31:27 America/Sao_Paulo] PHP Notice:  Undefined variable: casaoracao in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 30
+[11-Nov-2018 09:31:27 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[11-Nov-2018 09:31:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[11-Nov-2018 09:33:41 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[11-Nov-2018 09:33:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 19:36:45 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 19:36:45 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 20:42:12 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[22-Nov-2018 20:42:12 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[22-Nov-2018 21:04:42 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 21:04:42 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 21:09:58 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 21:09:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 21:14:22 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[22-Nov-2018 21:14:22 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[24-Nov-2018 20:34:40 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[24-Nov-2018 20:34:40 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[25-Nov-2018 08:28:11 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[25-Nov-2018 08:28:11 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[25-Nov-2018 08:37:17 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[25-Nov-2018 08:37:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[25-Nov-2018 10:37:41 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[25-Nov-2018 10:37:41 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[25-Nov-2018 10:57:44 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[25-Nov-2018 10:57:44 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[26-Nov-2018 12:34:04 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[26-Nov-2018 12:34:04 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[26-Nov-2018 12:34:06 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[26-Nov-2018 12:34:06 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[26-Nov-2018 12:34:06 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[26-Nov-2018 12:34:06 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[02-Dec-2018 08:07:46 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:07:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:10:02 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:10:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:24:17 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:24:32 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:24:35 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:24:36 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:24:42 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:25:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:25:32 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:25:35 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:25:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:25:41 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[02-Dec-2018 08:50:58 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:50:58 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:54:48 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:54:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:59:17 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 08:59:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:01:02 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:01:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:04:56 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:04:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:06:14 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:06:14 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:07:21 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:07:21 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:31:38 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:31:38 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:33:36 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:33:36 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:34:23 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:34:23 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:40:22 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:40:22 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:51:32 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 09:51:32 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 10:11:59 America/Sao_Paulo] PHP Notice:  Undefined variable: conn in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[02-Dec-2018 10:11:59 America/Sao_Paulo] PHP Fatal error:  Call to a member function close() on a non-object in /home/rpforg/public_html/controlepresenca/participante_gravar.php on line 54
+[05-Dec-2018 20:53:02 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[05-Dec-2018 20:53:02 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[07-Dec-2018 14:41:13 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[07-Dec-2018 14:41:13 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[08-Dec-2018 09:03:21 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:03:25 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:03:34 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:03:41 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:03:54 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:04:45 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:04:50 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:13:16 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:13:23 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:13:27 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:13:28 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 09:13:37 America/Sao_Paulo] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/rpforg/public_html/controlepresenca/conection2.inc.php on line 14
+[08-Dec-2018 11:22:43 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[08-Dec-2018 11:22:43 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 06:38:16 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/login.php on line 5
+[16-Dec-2018 06:38:16 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/login.php on line 8
+[16-Dec-2018 08:25:15 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 08:25:15 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 08:37:03 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 08:37:03 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 08:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 08:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 08:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 08:37:05 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 13:12:07 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 13:12:07 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
+[16-Dec-2018 23:35:18 America/Sao_Paulo] PHP Notice:  Undefined index: acesso in /home/rpforg/public_html/controlepresenca/header.php on line 4
+[16-Dec-2018 23:35:18 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/rpforg/public_html/controlepresenca/header.php on line 100
