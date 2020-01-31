@@ -80,7 +80,7 @@ $cfg['SaveDir'] = '';
 /**
  * Whether to display icons or text or both icons and text in table row
  * action segment. Value can be either of 'icons', 'text' or 'both'.
- * default = 'both'
+ * default = 'both' teste
  */
 //$cfg['RowActionType'] = 'icons';
 
